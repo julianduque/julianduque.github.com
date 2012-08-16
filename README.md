@@ -1,4 +1,3 @@
-julianduque.github.com
-======================
+# My Github Site
 
-Personal Projects
+This site is redirecting to http://about.me/julianduque
